@@ -9,9 +9,9 @@ Before starting, make sure your vim version has been compiled with python 3.8 su
 ```
 git clone https://github.com/ddezORTEP/ortepvim
 ```
-- 1. this vim config uses vim-plug. To install vim-plug head over to their github page
+- 2. this vim config uses vim-plug. To install vim-plug head over to their github page
 [here](https://github.com/junegunn/vim-plug)
-- 2. Copy over the .vimrc to you home directory
+- 3. Copy over the .vimrc to you home directory
 ***PLEASE MAKE SURE TO BACKUP YOUR PREVIOUS VIM CONFIG***
 ### Macos/Linux : 
 ```
@@ -22,7 +22,7 @@ Now, you can copy the .vimrc to your home directory
 ```
 cp ~/ortepvim/.vimrc ~/.vimrc
 ```
-- 3. Start vim and install Plugins
+- 4. Start vim and install Plugins
 type vim in the terminal to start upp vim (you should already know that) and run the plugin install command
 ```
 vim
