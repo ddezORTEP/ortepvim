@@ -12,7 +12,7 @@ git clone https://github.com/ddezORTEP/ortepvim
 - 1. this vim config uses vim-plug. To install vim-plug head over to their github page
 [here](https://github.com/junegunn/vim-plug)
 - 2. Copy over the .vimrc to you home directory
- *** PLEASE MAKE SURE TO BACKUP YOUR PREVIOUS VIM CONFIG ***
+***PLEASE MAKE SURE TO BACKUP YOUR PREVIOUS VIM CONFIG***
 ### Macos/Linux : 
 ```
 cp ~/.vimrc ~/vimrc.bak
